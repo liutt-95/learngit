@@ -1,3 +1,3 @@
 i am a girl from dongbei
 
-i love the country
+i love the world and country

@@ -1,4 +1,4 @@
 hello everybody
 
-i am an lovely girl
+i am an lovly girl
 i need some help

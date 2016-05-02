@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hello world
 
 git is a distributed version control system.
@@ -7,15 +7,4 @@ git is a distributed version control system.
 
 the world is so pretty and don't forget to say hello to her.
 
-git branch is fast and simple
-=======
-hello world
-
-git is a distributed version control system.
-
-ÊÀ½çÄãºÃ
-
-the world is so pretty and don't forget to say hello to her.
-
-git branch is fast and simple
->>>>>>> feature
+git branch is fast ans simple
